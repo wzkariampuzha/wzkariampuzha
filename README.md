@@ -1,5 +1,6 @@
 ### Hi there 👋 
-My name is William Kariampuzha
+I like to ...
+🧠🤖💥
 
 <!--
 **wzkariampuzha/wzkariampuzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
