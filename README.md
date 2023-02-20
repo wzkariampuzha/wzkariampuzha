@@ -1,5 +1,5 @@
 ## Hi there 👋 
-I like mathematical & evolutionary linguistics 🌎 natural language processing 💬 and deep learning ⚡
+I like mathematical & evolutionary linguistics🌎 natural language processing💬 and deep learning⚡
 
 
 <!--
