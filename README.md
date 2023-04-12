@@ -1,6 +1,5 @@
 ## Hi there 👋 
-I like mathematical & evolutionary linguistics🌎 natural language processing💬 and deep learning⚡
-
+I like mathematical & evolutionary linguistics🌎 [NLP](https://en.wikipedia.org/wiki/Natural_language_processing)💬 and deep learning ⚡
 
 <!--
 **wzkariampuzha/wzkariampuzha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
